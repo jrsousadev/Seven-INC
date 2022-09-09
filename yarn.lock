@@ -30,6 +30,11 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
+"@fnando/cpf@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@fnando/cpf/-/cpf-1.0.2.tgz#e78c46c5ee599b17f5d81b46c336b0e6eec8ace4"
+  integrity sha512-lfSfdONVQ/1aKvsA7PnawQjSoE5PXOyHich3WFIbAuYRMAw6Ax1FmIWxPxCfHP/Rh0R2cG/CxaimUW7NI6rgEQ==
+
 "@jest/expect-utils@^29.0.2":
   version "29.0.2"
   resolved "https://registry.yarnpkg.com/@jest/expect-utils/-/expect-utils-29.0.2.tgz#00dfcb9e6fe99160c326ba39f7734b984543dea8"

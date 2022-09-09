@@ -6,3 +6,4 @@ _cacache
 _logs
 _update-notifier-last-checked
 .coverage
+migrations
