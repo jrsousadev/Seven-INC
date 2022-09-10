@@ -18,6 +18,21 @@ API Desenvolvida com o intuito de gerenciar funcionários! (Challenge Seven)
 - [x] Listar funcionário
 - [x] Listar todos os funcionários
 
+### Project architecture
+`🚧 wip 🚧`
+
+```
+.
+├── src/
+│   └── database
+|   └── environments
+|   └── modules
+|   └── repositories
+|   └── shared
+|   └── utils
+└── ...
+```
+
 ### Iniciando o Projeto
 
 **1-** Clone o repositório e instale as dependências.
