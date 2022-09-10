@@ -37,9 +37,9 @@ API Desenvolvida com o intuito de gerenciar funcionários! (Challenge Seven)
 
 ### Exemplo API (Criar funcionário)
 
-### Iniciando o Projeto
-
 ![image](https://user-images.githubusercontent.com/92350736/189468078-6a5689d6-63a9-48c9-a825-4599621299ce.png)
+
+### Iniciando o Projeto
 
 **1-** Clone o repositório e instale as dependências.
 ```sh
