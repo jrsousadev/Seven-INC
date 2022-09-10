@@ -24,7 +24,7 @@ API Desenvolvida com o intuito de gerenciar funcionários! (Challenge Seven)
 - [x] [PUT] "/employee/:id"
 - [x] [DELETE] "/employee/:id"
 - [x] [GET] "/employee/:id"
-- [x] [GET] "/employee/"
+- [x] [GET] "/employee"
 
 ### Project architecture
 
