@@ -34,6 +34,9 @@ API Desenvolvida com o intuito de gerenciar funcionários! (Challenge Seven)
 │   └── database
 |   └── environments
 |   └── modules
+|       └── Employeee
+|           └── Controllers
+|           └── Services
 |   └── repositories
 |   └── shared
 |       └── containers
