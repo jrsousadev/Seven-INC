@@ -19,7 +19,6 @@ API Desenvolvida com o intuito de gerenciar funcionários! (Challenge Seven)
 - [x] Listar todos os funcionários
 
 ### Project architecture
-`🚧 wip 🚧`
 
 ```
 .
@@ -29,6 +28,9 @@ API Desenvolvida com o intuito de gerenciar funcionários! (Challenge Seven)
 |   └── modules
 |   └── repositories
 |   └── shared
+|       └── containers
+|       └── errors
+|       └── routes
 |   └── utils
 └── ...
 ```
