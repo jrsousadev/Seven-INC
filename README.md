@@ -4,11 +4,11 @@ API Desenvolvida com o intuito de gerenciar funcionários! (Challenge Seven)
 
 ## O que foi utilizado no projeto:
 
-- Typescript
-- Express
-- Postgress
-- Prisma
-- Nodejs
+- [x] Typescript
+- [x] Express
+- [x] Postgress
+- [x] Prisma
+- [x] Nodejs
 
 ### Regras de negócio:
 
