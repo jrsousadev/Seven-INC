@@ -1,6 +1,6 @@
 ## 📋 Seven INC
 
-API Desenvolvida com o intuito de gerenciar funcionários!
+API Desenvolvida com o intuito de gerenciar funcionários! (Challenge Seven)
 
 ## O que foi utilizado no projeto:
 
