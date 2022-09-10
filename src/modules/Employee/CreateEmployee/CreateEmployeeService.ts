@@ -23,7 +23,7 @@ export class CreateEmployeeService {
     try {
       const employeeExist = await this.employeeRepository.getOne({document: data.document})
 
-      if (employeeExist) throw new CustomError("Employee exist", 400);
+      if (employeeExist) throw new CustomError("CPF alredy is exist", 400);
 
       const employee = await this.employeeRepository.create(data);
 

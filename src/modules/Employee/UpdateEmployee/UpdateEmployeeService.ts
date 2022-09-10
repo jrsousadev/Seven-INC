@@ -25,7 +25,7 @@ export class UpdateEmployeeService {
         id: data.id,
       });
 
-      if (!employeeExist) throw new CustomError("Employee exist", 400);
+      if (!employeeExist) throw new CustomError("Employee is not exist", 400);
 
       const documentExist = await this.employeeRepository.getOne({
         document: data.document,
