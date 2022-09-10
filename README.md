@@ -18,6 +18,14 @@ API Desenvolvida com o intuito de gerenciar funcionários! (Challenge Seven)
 - [x] Listar funcionário           [GET] "/employee/:id"
 - [x] Listar todos os funcionários [GET] "/employee/"
 
+### Endpoints:
+
+- [x] [POST] "/employee"
+- [x] [PUT] "/employee/:id"
+- [x] [DELETE] "/employee/:id"
+- [x] [GET] "/employee/:id"
+- [x] [GET] "/employee/"
+
 ### Project architecture
 
 ```
