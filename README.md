@@ -41,7 +41,7 @@ API Desenvolvida com o intuito de gerenciar funcionários! (Challenge Seven)
 
 ### Iniciando o Projeto
 
-**1-** Clone o repositório e instale as dependências.
+** Clone o repositório e instale as dependências.
 ```sh
 # install dependencies
 > yarn
