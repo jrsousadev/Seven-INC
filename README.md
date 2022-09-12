@@ -12,11 +12,11 @@ API Desenvolvida com o intuito de gerenciar funcionários! (Challenge Seven)
 
 ### Regras de negócio:
 
-- [x] Cadastrar funcionário        [POST] "/employee"
-- [x] Editar funcionário           [PUT] "/employee/:id"
-- [x] Deletar funcionário          [DELETE] "/employee/:id"
-- [x] Listar funcionário           [GET] "/employee/:id"
-- [x] Listar todos os funcionários [GET] "/employee/"
+- [x] Cadastrar funcionário
+- [x] Editar funcionário        
+- [x] Deletar funcionário      
+- [x] Listar funcionário          
+- [x] Listar todos os funcionários 
 
 ### Endpoints:
 
